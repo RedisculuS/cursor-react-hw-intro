@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RedisculuS/react-homework/static/css/main.367caa87.chunk.css",
+    "main.js": "/RedisculuS/react-homework/static/js/main.fa9c7423.chunk.js",
+    "main.js.map": "/RedisculuS/react-homework/static/js/main.fa9c7423.chunk.js.map",
+    "runtime-main.js": "/RedisculuS/react-homework/static/js/runtime-main.aff4ac9b.js",
+    "runtime-main.js.map": "/RedisculuS/react-homework/static/js/runtime-main.aff4ac9b.js.map",
+    "static/js/2.b36ee47c.chunk.js": "/RedisculuS/react-homework/static/js/2.b36ee47c.chunk.js",
+    "static/js/2.b36ee47c.chunk.js.map": "/RedisculuS/react-homework/static/js/2.b36ee47c.chunk.js.map",
+    "static/js/3.d4bedde2.chunk.js": "/RedisculuS/react-homework/static/js/3.d4bedde2.chunk.js",
+    "static/js/3.d4bedde2.chunk.js.map": "/RedisculuS/react-homework/static/js/3.d4bedde2.chunk.js.map",
+    "index.html": "/RedisculuS/react-homework/index.html",
+    "static/css/main.367caa87.chunk.css.map": "/RedisculuS/react-homework/static/css/main.367caa87.chunk.css.map",
+    "static/js/2.b36ee47c.chunk.js.LICENSE.txt": "/RedisculuS/react-homework/static/js/2.b36ee47c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/RedisculuS/react-homework/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aff4ac9b.js",
+    "static/js/2.b36ee47c.chunk.js",
+    "static/css/main.367caa87.chunk.css",
+    "static/js/main.fa9c7423.chunk.js"
+  ]
+}
